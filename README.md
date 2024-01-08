@@ -1,11 +1,11 @@
-#Title: Mixed Messages Generator
+# Title: Mixed Messages Generator
 
-##Technologies
+## Technologies
 + Javascript
 + Git
 + Github
 
-##How does it work
+## How does it work
 + 3 arrays are used to store the inspirational talk, the user's star sign and a joke.
 + A function is used to console a random interpolation of the 3 arrays to generate a sensible output.
 
